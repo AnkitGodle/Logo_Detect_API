@@ -1,0 +1,5 @@
+train: ../logo/train/images
+val: ../logo/valid/images
+
+nc: 1
+names: ['logo']
