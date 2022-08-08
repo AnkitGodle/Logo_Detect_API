@@ -30,5 +30,7 @@ $ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ## General Information
 
 [app](https://github.com/AnkitGodle/Logo_Detect_API/tree/main/app) - Contains the trained model, FastAPI code
+
 [logo_data](https://github.com/AnkitGodle/Logo_Detect_API/tree/main/logo_data) - Contains training/test data
-[Yolo_train.ipynb] - Model training code
+
+[Yolo_train.ipynb](https://github.com/AnkitGodle/Logo_Detect_API/blob/main/Yolo_train.ipynb) - Model training code
