@@ -19,7 +19,7 @@ Open - `http://0.0.0.0:8000/docs/` in your browser
 Use POST/ api/detect/logo to upload the image and get the inferences
 
 ## To run the FastAPI locally
-Clone repo and install requirements.txt in a Python>=3.9.0 environment
+Clone repo, install requirements.txt in a Python>=3.9.0 environment and follow step 2 and step 3 from above
 ```
 $ git clone https://github.com/AnkitGodle/Logo_Detect_API
 $ cd Logo_Detect_API
