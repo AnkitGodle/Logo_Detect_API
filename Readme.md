@@ -16,7 +16,7 @@ After the app startup is complete
 Open - `http://0.0.0.0:8000/docs/` in your browser
 
 #### Step 3
-Use POST/ api/detect/logo to upload the image and get the predictions
+Use POST/ api/detect/logo to upload the image and get the inferences
 
 ## To run the FastAPI locally
 Clone repo and install requirements.txt in a Python>=3.9.0 environment
