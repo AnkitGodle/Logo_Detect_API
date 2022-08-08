@@ -4,18 +4,18 @@ Custom Object Detection model trained and deployed using FastAPI
 
 ## To run the Docker image
 
-#### Step 1
+### Step 1
 Run these docker commands
 ```
 $ docker pull ankitgodle/detect_logo_api
 $ docker run -p 8000:8000 --name detect_logo ankitgodle/detect_logo_api
 ```
-#### Step 2
+### Step 2
 After the app startup is complete
 
 Open - `http://0.0.0.0:8000/docs/` in your browser
 
-#### Step 3
+### Step 3
 Use POST/ api/detect/logo to upload the image and get the inferences
 
 ## To run the FastAPI locally
