@@ -2,7 +2,7 @@
 
 Custom Object Detection model trained and deployed using FastAPI
 
-## To run the Image on Docker
+## To run the Docker image
 
 #### Step 1
 Run these docker commands
