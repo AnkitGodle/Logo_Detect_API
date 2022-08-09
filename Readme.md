@@ -14,6 +14,7 @@ $ docker run -p 8000:8000 --name detect_logo ankitgodle/detect_logo_api
 After the app startup is complete
 
 Open URL - http://0.0.0.0:8000/docs/ in your browser
+if you get Error 502, try URL - http://127.0.0.1:8000/docs
 
 ### Step 3
 Use POST/ api/detect/logo to upload the image and get the inferences
